@@ -238,5 +238,5 @@ def main(config_file:str):
         sys.exit(1)
     
 if __name__ == "__main__":
-    main("config.ini")
+    main("config_check_with_gpt.ini")
 
